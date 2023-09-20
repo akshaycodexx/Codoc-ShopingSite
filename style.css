@@ -232,7 +232,7 @@ border-radius: 50px;
   .lowerDiv{
     flex-direction: column;
     justify-content: center;
-    height: 175vh;
+    height: auto;
     align-items: center;
   }
 
